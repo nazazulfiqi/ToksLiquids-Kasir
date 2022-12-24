@@ -1,0 +1,298 @@
+{
+  "categories": [
+    {
+      "id": 1,
+      "nama": "Freebase"
+    },
+    {
+      "id": 2,
+      "nama": "Podsfriendly"
+    },
+    {
+      "id": 3,
+      "nama": "Saltnic"
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "kode": "F-01",
+      "nama": "MUNCHIES SOJU MANGO 60ML",
+      "harga": 130000,
+      "is_ready": true,
+      "gambar": "munchies-mangga.jpg",
+      "category": {
+        "id": 1,
+        "nama": "Freebase"
+      }
+    },
+    {
+      "id": 2,
+      "kode": "F-02",
+      "nama": "MUNCHIES PINEAPPLES 60ML",
+      "harga": 130000,
+      "is_ready": true,
+      "gambar": "munchies_nanas.jpg",
+      "category": {
+        "id": 1,
+        "nama": "Freebase"
+      }
+    },
+    {
+      "id": 3,
+      "kode": "F-03",
+      "nama": "ICEPEDIA LYCHEE 60ML",
+      "harga": 80000,
+      "is_ready": true,
+      "gambar": "icepedia_lychee.jpg",
+      "category": {
+        "id": 1,
+        "nama": "Freebase"
+      }
+    },
+    {
+      "id": 4,
+      "kode": "K-04",
+      "nama": "ICEPEDIA GRAPE 60ML",
+      "harga": 80000,
+      "is_ready": true,
+      "gambar": "icepedia_grape.jpg",
+      "category": {
+        "id": 1,
+        "nama": "Freebase"
+      }
+    },
+    {
+      "id": 5,
+      "kode": "F-05",
+      "nama": "KRUSTY CREPES V5 60ML",
+      "harga": 105000,
+      "is_ready": true,
+      "gambar": "krusty_ccrepesv5.jpg",
+      "category": {
+        "id": 1,
+        "nama": "Freebase"
+      }
+    },
+    {
+      "id": 6,
+      "kode": "F-06",
+      "nama": "BLONDIES V2 BANANA",
+      "harga": 108500,
+      "is_ready": true,
+      "gambar": "blondies_banana.jpg",
+      "category": {
+        "id": 1,
+        "nama": "Freebase"
+      }
+    },
+    {
+      "id": 7,
+      "kode": "F-07",
+      "nama": "JUTA JUICE BLACKDEW",
+      "harga": 75000,
+      "is_ready": true,
+      "gambar": "jutajuice_blackdew.jpg",
+      "category": {
+        "id": 1,
+        "nama": "Freebase"
+      }
+    },
+    {
+      "id": 8,
+      "kode": "P-01",
+      "nama": "HAPPY KRUNCH V3 PINK 30ML",
+      "harga": 75000,
+      "is_ready": true,
+      "gambar": "happykrunch_pink.jpg",
+      "category": {
+        "id": 2,
+        "nama": "Podsfriendly"
+      }
+    },
+    {
+      "id": 9,
+      "kode": "P-02",
+      "nama": "ZUGUZ PINK CHEWY 30ML",
+      "harga": 69000,
+      "is_ready": true,
+      "gambar": "zugus_pink.jpg",
+      "category": {
+        "id": 3,
+        "nama": "Podsfriendly"
+      }
+    },
+    {
+      "id": 10,
+      "kode": "P-03",
+      "nama": "MINUS TWO V3 RED 30ML",
+      "harga": 75000,
+      "is_ready": true,
+      "gambar": "minustwo_red.jpg",
+      "category": {
+        "id": 3,
+        "nama": "Podsfriendly"
+      }
+    },
+    {
+      "id": 11,
+      "kode": "S-01",
+      "nama": "SPLASH VERDANT 30ML",
+      "harga": 80000,
+      "is_ready": true,
+      "gambar": "splash_verdant.jpg",
+      "category": {
+        "id": 2,
+        "nama": "Saltnic"
+      }
+    },
+    {
+      "id": 12,
+      "kode": "S-02",
+      "nama": "KRUSTY CREPES V2 15ML",
+      "harga": 55000,
+      "is_ready": true,
+      "gambar": "krustycrepes_v2salt.jpg",
+      "category": {
+        "id": 2,
+        "nama": "Saltnic"
+      }
+    },
+    {
+      "id": 13,
+      "kode": "S-03",
+      "nama": "FOOM LITE BERRY 30ML",
+      "harga": 89000,
+      "is_ready": true,
+      "gambar": "foom_liteberry.jpg",
+      "category": {
+        "id": 2,
+        "nama": "Saltnic"
+      }
+    },
+    {
+      "id": 14,
+      "kode": "S-04",
+      "nama": "SEPARUH NAFAS",
+      "harga": 3000,
+      "is_ready": true,
+      "gambar": "separuh_nafas.jpg",
+      "category": {
+        "id": 2,
+        "nama": "Saltnic"
+      }
+    }
+  ],
+  "keranjangs": [
+    {
+      "jumlah": 1,
+      "total_harga": 80000,
+      "product": {
+        "id": 3,
+        "kode": "F-03",
+        "nama": "ICEPEDIA LYCHEE 60ML",
+        "harga": 80000,
+        "is_ready": true,
+        "gambar": "icepedia_lychee.jpg",
+        "category": {
+          "id": 1,
+          "nama": "Freebase"
+        }
+      },
+      "id": 1
+    },
+    {
+      "jumlah": 1,
+      "total_harga": 80000,
+      "product": {
+        "id": 11,
+        "kode": "S-01",
+        "nama": "SPLASH VERDANT 30ML",
+        "harga": 80000,
+        "is_ready": true,
+        "gambar": "splash_verdant.jpg",
+        "category": {
+          "id": 2,
+          "nama": "Saltnic"
+        }
+      },
+      "id": 2
+    },
+    {
+      "jumlah": 1,
+      "total_harga": 75000,
+      "product": {
+        "id": 10,
+        "kode": "P-03",
+        "nama": "MINUS TWO V3 RED 30ML",
+        "harga": 75000,
+        "is_ready": true,
+        "gambar": "minustwo_red.jpg",
+        "category": {
+          "id": 3,
+          "nama": "Podsfriendly"
+        }
+      },
+      "id": 3
+    },
+    {
+      "jumlah": 1,
+      "total_harga": 108500,
+      "product": {
+        "id": 6,
+        "kode": "F-06",
+        "nama": "BLONDIES V2 BANANA",
+        "harga": 108500,
+        "is_ready": true,
+        "gambar": "blondies_banana.jpg",
+        "category": {
+          "id": 1,
+          "nama": "Freebase"
+        }
+      },
+      "id": 4
+    }
+  ],
+  "pesanans": [
+    {
+      "total_bayar": 290000,
+      "menus": [
+        {
+          "jumlah": 1,
+          "total_harga": 130000,
+          "product": {
+            "id": 1,
+            "kode": "F-01",
+            "nama": "MUNCHIES SOJU MANGO 60ML",
+            "harga": 130000,
+            "is_ready": true,
+            "gambar": "munchies_mangga.jpg",
+            "category": {
+              "id": 1,
+              "nama": "Freebase"
+            }
+          },
+          "id": 3
+        },
+        {
+          "jumlah": 2,
+          "total_harga": 160000,
+          "product": {
+            "id": 11,
+            "kode": "S-01",
+            "nama": "SPLASH VERDANT 30ML",
+            "harga": 80000,
+            "is_ready": true,
+            "gambar": "splash_verdant.jpg",
+            "category": {
+              "id": 2,
+              "nama": "Saltnic"
+            }
+          },
+          "id": 4
+        }
+      ],
+      "id": 1
+    }
+  ]
+}
